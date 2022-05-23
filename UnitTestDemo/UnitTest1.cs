@@ -27,7 +27,7 @@ namespace UnitTestDemo
 
 
             oXmlTextWriter.WriteElementString("Memo", sMemo);
-             
+            
 
             //====================================
             oXmlTextWriter.WriteEndDocument();
